@@ -1,6 +1,6 @@
 ---
 layout: page
-title: öbaut
+title: abaut
 permalink: /about/
 published: true
 ---
