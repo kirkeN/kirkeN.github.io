@@ -1,7 +1,7 @@
 ---
 layout: page
 title: öbout
-permalink: /äbout/
+permalink: /about/
 published: true
 ---
 
