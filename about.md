@@ -1,9 +1,10 @@
 ---
 layout: page
-title: öbout
+title: ""
 permalink: /about/
 published: true
 ---
+
 
 
 
