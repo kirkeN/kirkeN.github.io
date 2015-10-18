@@ -3,6 +3,7 @@ published: false
 ---
 
 
+
 ## 
 Uus meedia on selle sajandi „internetinduse“ termin märkimaks hulka asju ja teemasid, mis seotud tehnoloogia, massimeedia, interaktiivse meedia, multimeedia jms. Uus meedia mõjutab kahtlemata meie sotsiaalset käitumist. Järgnevalt mõtisklen, milline mõju on sellele uue meedia ühel võimalikul aktiivse ehk „elus“ info komponendil – suhtlusportaalidel ja sotsiaalvõrgustikel. Igal aspektil on head ja vead, püüan mõlemad välja tuua.
 
@@ -12,7 +13,7 @@ Uus meedia on selle sajandi „internetinduse“ termin märkimaks hulka asju ja
 Paljud kasutavad neid kanaleid ürituste promomiseks.Llisaks saab kohe teada anda, kes on minejad, osalejad saavad kommenteerida ja lisada infot. Selline info liikumine on dünaamiline ja hoiab nii korraldajaid kui osavõtjaid jooksvate muudatustega kursis. Kui on ka väiksem kogukonna ettevõtmine, saavad osalejad hõlpsalt tegevusi koordineerida ja reaalajas üksteisega infot vahetada, mängimata telefonimängu.  Teisalt eeldab see loomilikult, et inimsel on konto vastavas sotsiaalvõrgustikus. Kindlasti on mitmed tundnud sotsiaalset survet, et nad peavad tegema ja haldama kontot näiteks Facebookis, sest vastasel juhul ei jõua lihtsalt info nendeni. Harvemaks on jäänud telefonikõned , isegi e-mailid sõpradelt kutsega mõnele sündmusele, ettevõtmisele. Kõik käib peaasjalikult läbi sotsiaalvõrgustike. Personaalset lähenemist on vähe, millest on kahju. Efektiivsus (suurema osalejate arvu juures eelkõige) on muidugi suurem.
 
 
-![pleaseFB](/images/pleaseFB.jpg "palun, FB")
+![pleaseFB](/images/pleaseFB.jpg "palunFB")
 
 
 **Pere ja sõprade tegemistega kursis olemine/hoidmine; oma huvide ja eelistuste esitamine**
