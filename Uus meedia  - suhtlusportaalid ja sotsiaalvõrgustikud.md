@@ -25,5 +25,5 @@ Mõned teemakohased mõtted ja viited internetist:
 [http://edition.cnn.com/2012/05/18/tech/social-media/facebook-deactivation-ireport/](http://edition.cnn.com/2012/05/18/tech/social-media/facebook-deactivation-ireport/ )
 2.  „Privacy no longer a social norm“ – Mark Zuckenberg:
 [http://www.theguardian.com/technology/2010/jan/11/facebook-privacy](http://www.theguardian.com/technology/2010/jan/11/facebook-privacy )
-3. Positiivsed ja negatiivsed aspektid sotsiaalvõrgustike kasutamisel (neid võib guugeldades palju leida, üks näide):
+3. Positiivsed ja negatiivsed aspektid sotsiaalvõrgustike kasutamisel (neid võib guugeldades palju leida, üks näide):    
 [http://www.bbc.co.uk/schoolreport/22065333](http://www.bbc.co.uk/schoolreport/22065333)
