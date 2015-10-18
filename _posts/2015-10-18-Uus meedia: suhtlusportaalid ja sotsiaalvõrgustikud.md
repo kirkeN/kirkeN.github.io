@@ -6,9 +6,9 @@ layout: post
 
 
 
+
 ###
-Uus meedia on selle sajandi „internetinduse“ termin märkimaks hulka asju ja teemasid, mis seotud tehnoloogia, massimeedia, interaktiivse meedia, multimeedia jms. Uus meedia mõjutab kahtlemata meie sotsiaalset käitumist. Järgnevalt mõtisklen, milline mõju on sellele uue meedia ühel võimalikul aktiivse ehk „elus“ info komponendil – suhtlusportaalidel ja sotsiaalvõrgustikel. Igal aspektil on head ja vead, püüan mõlemad välja tuua.
- 
+Uus meedia on selle sajandi „internetinduse“ termin märkimaks hulka asju ja teemasid, mis seotud tehnoloogia, massimeedia, interaktiivse meedia, multimeedia jms. Uus meedia mõjutab kahtlemata meie sotsiaalset käitumist. Järgnevalt mõtisklen, milline mõju on sellele uue meedia ühel võimalikul aktiivse ehk „elus“ info komponendil – suhtlusportaalidel ja sotsiaalvõrgustikel. 
  
 **Info levitamine**
  
