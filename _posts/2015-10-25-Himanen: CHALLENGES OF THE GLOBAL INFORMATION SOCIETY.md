@@ -1,5 +1,7 @@
 ---
 published: true
+Layout: post
+layout: post
 ---
 
 
