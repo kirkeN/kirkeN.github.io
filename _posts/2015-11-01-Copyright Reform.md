@@ -1,6 +1,8 @@
 ---
 published: true
+layout: post
 ---
+
 
 
 
@@ -17,5 +19,5 @@ Vaba kultuuri ja info jagamine rikastab ühiskonda, teeb inimesi teadlikumaks er
 ![Labidas](/images/labidas.jpg "Labidas")
 
 
-Allikas: Falkvinge, R., Engström, C., 2012. The Case for Copyright Reform. Creative Commons CC0.
-http://falkvinge.net/wp-content/uploads/large/The%20Case%20For%20Copyright%20Reform%20(2012)%20Engstrom-Falkvinge.pdf
+Allikas: [Falkvinge, R., Engström, C., 2012. The Case for Copyright Reform. Creative Commons CC0.](http://falkvinge.net/wp-content/uploads/large/The%20Case%20For%20Copyright%20Reform%20(2012)%20Engstrom-Falkvinge.pdf)
+
