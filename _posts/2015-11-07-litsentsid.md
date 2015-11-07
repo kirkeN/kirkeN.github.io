@@ -1,9 +1,12 @@
 ---
 published: true
+layout: post
+Layout: post
 ---
 
 
-## Litsentside mõjust 3 näite varal: The Good, the Bad and the Ugly 
+
+# Litsentside mõjust 3 näite varal: The Good, the Bad and the Ugly 
 
 **the Good (_open content case_)**
 
