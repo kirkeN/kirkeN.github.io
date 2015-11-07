@@ -6,6 +6,7 @@ Layout: post
 
 
 
+
 **the Good (_open content case_)**
 
 Open Street Map (OSM) - tasuta vabatahtlike poolt redigeeritav kaardirakendus, mis inspireeritud Wikipedia tekkest. Kui Wikipedia on tasuta entsüklopeedia, siis Open Street Map on just kui tasuta atlas. Selle tegemiseks kasutatakse loomulikult avavara (_open source_) ning OSMil on sisule avavarale sarnaselt avatud litsents (_open content license_), mille järgi on keelatud küsida raha litsenseeritud töö eest, kuid muul juhul võib seda äritegevuseks kasutada. 
