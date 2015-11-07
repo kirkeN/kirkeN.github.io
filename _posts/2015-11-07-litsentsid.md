@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ## Litsentside mõjust 3 näite varal: The Good, the Bad and the Ugly 
 
 **the Good (_open content case_)**
@@ -23,4 +24,6 @@ Kolmandaks inetu käitumise näide teemal Free Antivirus software - tasuta viiru
 
 Paljud viirustõrjeprogrammid, nagu  Comodo, Panda, Avast, AVG jt reklaamivad ennast vabavarana, kuid tegelikult kaasneb nendega igasugust reklaami, spyware’i ehk nuhkvara,  add-in-e ehk lisarakendusi, tööriistaribasid jmt, mille pealt siis teenitakse kasumit. Näiteks laadides arvutisse mõnd viirustõrje programmi, võid avastada, et võib-olla kusagile linnukese sissejätmisega või mõnel muul viisil on sulle tekkinud interneti browseri aknasse uus tööriistariba (Ask vms) või internetilehitsejale uus koduleht. Mõned asjad võivad ka märkamatuks jääda, nagu internetitegevuste jälgimine nuhkvara abil. 
 
-Kuidagi peab muidugi raha tegema, aga üldiselt päris kole käitumine ju.   
+Kuidagi peab muidugi raha tegema, aga üldiselt päris kole käitumine ju.
+
+![goodbadugly](/images/goodbadugly.jpg "goodBadUgly")
