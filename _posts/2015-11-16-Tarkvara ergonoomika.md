@@ -1,6 +1,9 @@
 ---
 published: true
+Layout: post
+layout: post
 ---
+
 
 
 Kasutajasõbralik tarkvara hõlmab endas mitmeid omadusi: see on lihtsasti paigaldatav, kerge uuendada, aga ka eemaldada, meeldiva ja lihtsa (intuitiivse) kasutajaliidesega, teeb  hästi seda, milleks on mõeldud ehk täidab oma otstarvet, võiks olla ka mingisugune kasutajatugi, ei vaja lisavidinaid / -tarkvara, et seda tööle saada. 
