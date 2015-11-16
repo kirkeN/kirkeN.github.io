@@ -6,6 +6,7 @@ layout: post
 
 
 
+
 Kasutajasõbralik tarkvara hõlmab endas mitmeid omadusi: see on lihtsasti paigaldatav, kerge uuendada, aga ka eemaldada, meeldiva ja lihtsa (intuitiivse) kasutajaliidesega, teeb  hästi seda, milleks on mõeldud ehk täidab oma otstarvet, võiks olla ka mingisugune kasutajatugi, ei vaja lisavidinaid / -tarkvara, et seda tööle saada. 
 
 Ei ole tarkvaraspetsialist, kuid tahaksin kiita [Codecademy](https://www.codecademy.com/) interaktiivset õppeplatvormi  programmeerimiskeelte ja veebiarenduse õppimiseks (tegu ei ole küll arvutisse installeeritava programmiga, aga kuna see mulle kasutajasõbralikkuse ja disaini poolest nii väga meeldib, siis räägin ikkagi sellest). Codecademy headust indikeerivad järgmised omadused:
