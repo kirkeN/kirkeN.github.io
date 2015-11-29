@@ -6,6 +6,7 @@ layout: post
 
 
 
+
 ## 
 Pekka Himaneni 2004. aastal kirja pandud arutlus informatsiooni ühiskonna väljakutsete üle on enam-vähem asjakohane lugemismaterjal tänagi, toetudes inimkonna aatelistele põhiväärtustele. Selle keskseks tuumaks on loovus, loominguline probleemikäsitlus - võti edukaks infoühiskonna toimimiseks ja heaoluühiskonna jätkumiseks. Himanen toob välja globaalsed trendid, nagu näiteks rahvastiku vananemine, rutiinsete tööülesannete liikumine arengumaadesse, regionaalne kontsentreerumine linnadesse, suurenev lõhe rikaste ja vaeste vahel, kultuuri- ja biotööstuse tõus, suurenenud surve heaoluühiskonnale,  ning viitab teemadele ja valdkondadele, mis on olulised sellise ühiskonna edukaks toimimiseks. Lisaks kirjeldab ta kolme globaalset konkurentsi mudelit, mis põhinevad eri maailmajagude arengutel: neoliberaalne (nõrgad jäävad rongist maha) teadus- ja arengutegevusele ning julgeoleku tugevdamisele suunatud USA, kiire majanduskasvuga (sh teadustegevuses) ja piiriülest ettevõtlust toetav (madalad maksud), kuid info- ja sõnavabaduse mõttes konservatiivne Aasia, stagneeruv heaolu- ja infoühiskona esindav Euroopa, mille heaolu saab jätkuda ainult siis, kui hakatakse panustama innovatsioonile (ja seda kõikides valdkondades) ning vaesed arengumaad, kus 20% maailma kõige vaesema rahvastiku käest on vaid 1% maailma rikkuses (ja neil ei ole isegi oma mudelit). 
  
