@@ -12,7 +12,7 @@ Virginia Shea sõnastas oma raamatus "Netiquette" [10 võrgusuhtluse käsku](htt
 
 ning sellega seotud (pmts kolmanda käsu tagajärg) viimane, kümnes kõlab järgnevalt:
 
-> Andesta teistele nende eksimused (Be forgiving of other people's mistakes).
+> Andesta teistele nende eksimused (Be forgiving of other people's mistakes)
 
 Nagu piiblist välja rebitud (juba sõnastus "käsk" ise viitaks just kui piiblile", Jeesus oli teatavasti suur andestaja ja põskede ette keeraja) ja sobib hästi viimaseks käsuks oma universaalsuses ja eetilisuses - on ju laiendatav ka päris elu suhtlusele. Aga nii on! Mitte keegi ei salli üleolevat suhtumist ega näpuga näitamist tema eksimustele, eriti avalikult. Üks asi on konstruktiivne kriitika, hoopis teine asi aga alavääristamine. 
 
