@@ -10,7 +10,7 @@ Virginia Shea sõnastas oma raamatus "Netiquette" [10 võrgusuhtluse käsku](htt
 
 > Tea, kus sa oled (Know where you are in cyberspace)
 
-ning sellega seotud (pmts kolmanda kästu tagajärg) viimane, kümnes kõlab järgnevalt:
+ning sellega seotud (pmts kolmanda käsu tagajärg) viimane, kümnes kõlab järgnevalt:
 
 > Andesta teistele nende eksimused (Be forgiving of other people's mistakes).
 
