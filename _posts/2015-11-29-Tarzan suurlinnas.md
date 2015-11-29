@@ -5,9 +5,11 @@ published: false
 _..ehk võrgusuhtluse eripäradest_
 
 Virginia Shea sõnastas oma raamatus "Netiquette" [10 võrgusuhtluse käsku](http://www.albion.com/netiquette/book/), millest kolmas on:
+
 > Tea, kus sa oled (Know where you are in cyberspace)
 
 ning sellega seotud (pmts kolmanda kästu tagajärg) viimane, kümnes kõlab järgnevalt:
+
 > Andesta teistele nende eksimused (Be forgiving of other people's mistakes).
 
 Nagu piiblist välja rebitud (juba sõnastus "käsk" ise viitaks just kui piiblile", Jeesus oli teatavasti suur andestaja ja põskede ette keeraja) ja sobib hästi viimaseks käsuks oma universaalsuses ja eetilisuses - on ju laiendatav ka päris elu suhtlusele. Aga nii on! Mitte keegi ei salli üleolevat suhtumist ega näpuga näitamist tema eksimustele, eriti avalikult. Üks asi on konstruktiivne kriitika, hoopis teine asi aga alavääristamine. 
