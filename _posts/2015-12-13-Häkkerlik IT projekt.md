@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 Häkkerliku IT projekti näitena võtan luubi alla ja suumin sisse GIS tarkvara QGIS, sest  iga kingsepp jäägu oma liistude juurde ja minu liistud on ruumiandmed, mida QGISis saab  vaadata ja analüüsida. 
 
