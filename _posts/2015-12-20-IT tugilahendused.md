@@ -4,6 +4,7 @@ layout: post
 ---
 
 
+
 Tutvustaksin paari uut arendusjärgus olevat äppi, mis demonstreerivad, et seda arengut, kuhu tehnoloogia on täna jõudnud, saab edukalt kasutada lihtsate ja geniaalsete programmide tegemiseks, sh erivajadustega inimeste abistamiseks. 
 
 
