@@ -10,7 +10,7 @@ Tutvustaksin paari uut arendusjärgus olevat äppi, mis demonstreerivad, et seda
 
 [**Be My Eyes**](http://www.bemyeyes.org/)
 
-ehk "Ole mu silmad" on tänuväärt ettevõtmine pimedate inimeste aitamiseks ja seda mitte lihtsalt 100% tehnoloogia abil, vaid äpp kasutab ka inimfaktorit. Nimelt ühendab see rakendus pimedad ja nägijad inimesed: vabatahtlikud saavad mittenägijatele "laenata" oma silmi, kirjeldades näiteks ümbruskonda või lugedes neile mõnda vajalikku teksti ette. Pime inimene filmib või pildistab üles oma probleemi ning vabatahtlik ning saadab teavituse, et vajab vabatahtliku nägija abi. See rakendus on ühtaegu nii tore kui kasulik, aidatates minu arust nii vaegnägijaid kui kasvatades inimeste empaatiavõimet ja arusaama puuetega inimeste vajadustest. 
+ehk "Ole mu silmad" on tänuväärt ettevõtmine pimedate inimeste aitamiseks ja seda mitte lihtsalt 100% tehnoloogia abil, vaid äpp kasutab ka inimfaktorit. Nimelt ühendab see rakendus pimedad ja nägijad inimesed: vabatahtlikud saavad mittenägijatele "laenata" oma silmi, kirjeldades näiteks ümbruskonda või lugedes neile mõnda vajalikku teksti ette. Pime inimene filmib või pildistab üles oma probleemi ning saadab teavituse, et vajab vabatahtliku nägija abi. See rakendus on ühtaegu nii tore kui kasulik, aidatates minu arust nii vaegnägijaid kui kasvatades inimeste empaatiavõimet ja arusaama puuetega inimeste vajadustest. 
 
 
 [**Talkit**](http://www.talkitt.com/)
