@@ -3,6 +3,7 @@ published: false
 layout: post
 ---
 
+
 Tutvustaksin paari uut arendusjärgus olevat äppi, mis demonstreerivad, et seda arengut, kuhu tehnoloogia on täna jõudnud, saab edukalt kasutada lihtsate ja geniaalsete programmide tegemiseks, sh erivajadustega inimeste abistamiseks. 
 
 
@@ -15,4 +16,4 @@ ehk "Ole mu silmad" on tänuväärt ettevõtmine pimedate inimeste aitamiseks ja
 
 Kõnedefektiga inimesi abistav rakendus, mis tõlgib persooni arusaamatuna tunduva häälduse arusaadavaks kõneks ja seda mistahes keeles. Talkit õpib tundma kõnedefektiga inimese kõne ja häälduse eripärasid, tekitades selle inimese kõne kohta n-ö personaalse sõnaraamatu ning kasutab seda teavet selgesse hääldusesse tõlkimiseks ja seda selle sama inimese häälega.  
 
-Taolised rakendused peaksid lihtsustama erivajadustega inimeste igapäevaelu ja seda tänu nutiseadmetele, mida on kerge igal pool kaasas kanda. 
+Taolised rakendused peaksid lihtsustama erivajadustega inimeste igapäevaelu ja seda tänu nutiseadmetele, mida on kerge igal pool kaasas kanda.
