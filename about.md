@@ -12,8 +12,6 @@ published: true
 
 
 
-Siin blogis käsitlen IT Kolledži pika nimega kursuse --[IT eetilised, sotsiaalsed ja professionaalsed aspektid](https://beta.wikiversity.org/wiki/IT_eetilised,_sotsiaalsed_ja_professionaalsed_aspektid)-- teemasid kodukootud võtmes.
+Sõitsime Erkiga täpselt teise maakera otsa, st kui torgata Eestist ora täpselt Maa keskpunktist läbi, siis ulatuks teine ots umbes siin välja, kus meie oleme. Miks me ära läksime? Sellepärast, et Eestis on talved väga pikad, suved lühikesed ja rattaga ei ole alati väga mõnus sõita, katsetame, kas hakkame talve igatsema; sellepärast, et me oleme geograafid, õige geograaf võiks lisaks arvutiekraanil maakera scrollimisele päriselt ka natuke ringi käia, sellepärast, et koos reisimine ja avastamine on parim, mida parimad sõbrad ja paarilised teha saavad, kasvatab ja tugevdab sõprust! 
 
-##### 
 
-/* _Minu nimi on Kirke. Õpin I aastat arendust. Olen geoinformaatik (rõhk on hetkel veel sõnal geo(graafia), kuid õpingute edenedes võivad rõhud võrdsustuda)_ */
