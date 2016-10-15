@@ -14,9 +14,11 @@ Aga nüüd asja juurde.. Adelaide on nagu juba ennist mainitud üks suur **aedli
 
 ![rattabox soiduteel](/images/box2.jpeg "rattabox soiduteel")
 
+
 _Nö rattabox autoteel foori taga ristmikul, teeb ratturid nähtavaks ja annab neile eesõiguse startida_
 
 ![jalgratta rada](/images/line.jpeg "jalgratta rada")
+
 
 _Tüüpiline sõiduteele markeeritud jalgrattarada_
 
