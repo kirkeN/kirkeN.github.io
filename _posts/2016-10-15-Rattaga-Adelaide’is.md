@@ -2,11 +2,11 @@
 published: true
 layout: post
 ---
-##EELROOG - ilm
+**EELROOG - ilm**
 
 Millest üks tüüpiline eestlane ikka juttu alustab kui mitte ilmast, eksole (isegi, kui postituse pealkiri seda just kui ei eeldaks)? Ilmad on siin oodatust jahedamad olnud: ca 15 kraadi, kuid on ka helgemaid päevi, näiteks eile, mil päikese käes oli üle 20-ne, ja nädalavahetuseks lubas ka 25. Aga üldiselt oleme Erkiga juba kaks pakki teed ära joonud, sest meie _light_ backpackid on pigem ratta- ja suveriideid täis ning ega siis Austraalia majad korralikult soojustatud pole. 
 
-##I PÕHIKÄIK - rattateed
+**I PÕHIKÄIK - rattateed**
 
 ![rattabox soiduteel](/images/box.jpg "rattabox soiduteel")
 
