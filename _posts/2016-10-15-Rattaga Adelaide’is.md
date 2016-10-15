@@ -40,7 +40,7 @@ Kesklinn ja selle ümbrus on Adelaide’is lauge, kuid tõusumeetrite kogumine p
 
 ##MAGUSTOIT – Cascada kohv
 
-Pup’i (kutsikat) vaatamast tulles põrkasime juhuslikult mingisse kohvikusse, mitte väga kaugel kodust (nii 4 km), kus saime vist elu parima cappucciono, see oli niiiiiiii _yummie_. Tellisime kookospiimaga ja vaht oli hästi ühtlane ja kreemjas, super. Seetõttu otsustasime täna, laupäeval veelkord sinna minna, et ühks kohvibrunch teha (**Cascadas** saab ka väga häid ja põnevaid toorpalle, a la mingi kookos, maca, goji, spirulina jms superfood baasil). Juba eelmine kord panime tähele, et kohvik asub vist ratturite liikumismarsruudil ning täna oli ees juba mitu 50+ vanuses edevate riiete ja ratastega rattameestegängi kohvitamas ja einestamas. Lahe. Kohv maitses endiselt jumalikult.    
+Pup’i (kutsikat) vaatamast tulles põrkasime juhuslikult mingisse kohvikusse, mitte väga kaugel kodust (nii 4 km), kus saime vist elu parima cappucciono, see oli niiiiiiii _yummie_. Tellisime kookospiimaga ja vaht oli hästi ühtlane ja kreemjas, super. Seetõttu otsustasime täna, laupäeval veelkord sinna minna, et üks kohvibrunch teha (**Cascadas** saab ka väga häid ja põnevaid toorpalle, a la mingi kookos, maca, goji, spirulina jms superfood baasil). Juba eelmine kord panime tähele, et kohvik asub vist ratturite liikumismarsruudil ning täna oli ees juba mitu 50+ vanuses edevate riiete ja ratastega rattameeste gängi kohvitamas ja einestamas. Lahe. Kohv maitses endiselt jumalikult.    
 
 _Sõit-sõit-sõit linna – mis sinna minna – mägedesse ronima !_
 
