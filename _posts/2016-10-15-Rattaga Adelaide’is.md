@@ -8,7 +8,7 @@ Millest üks tüüpiline eestlane ikka juttu alustab kui mitte ilmast, eksole (i
 
 ##I PÕHIKÄIK - rattateed
 
-![rattabox soiduteel](/images/box.jpeg "rattabox soiduteel")
+![rattabox soiduteel](/images/box.jpg "rattabox soiduteel")
 
 Aga nüüd asja juurde.. Adelaide on nagu juba ennist mainitud üks suur **aedlinn**, kus absoluutselt igaühel on vist eramaja. Autoteed on siin laiad ja enamasti on tee äärde veetud korraliku laiusega jutt rattaraja tarvis, kuigi kui seda ka ei ole seal, siis pole lugu, autojuhid paistavad siin arvestavat ratturitega ja minul ei ole veel ühtegi halba kogemust olnud, kuigi olen igapäevaselt linnaliikluses vändanud. Kõnniteepoolne rida on laiem ja vaikimisi tundub olevat mõeldud ratturitele, või kui rada pole märgitud, võib olla siiski näiteks liiklusmärk, mis ratturitele n-ö sõiduloa annab. Teisalt on sellega ka üks probleem: tee ääres parkivad autod. Kuigi autoteel liiklemine on kindlasti kiirem kui jalakäijatega jagatud kõnniteel, siis peab jälgima, et juhipoolse uksega vastu vahtimist ei saa ning vastavalt vahet hoidma parkivatest autodest möödudes. Teisalt ei paista keegi pahane olevat, kui peab ratturile teed andma, vähemalt Adelaide’is. Kui foori taga seisma jäädakse, siis autojuhid lasevad ratturitel eelisjärjekorras startida ega tekita ohtlikke olukordi (a la ei keera ratturile ette). 
 
