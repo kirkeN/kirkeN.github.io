@@ -49,6 +49,7 @@ _Need on rattakastid, kuhu saab ratta lukku panna ja näiteks rongi peale hüpat
 ![Blue Mountains ehk Sinimäed](/images/bluemnt_erki.jpg "Blue Mountains ehk Sinimäed")
 
 ![Õhtusöök Sinimägedes](/images/bluemnt_toit.jpg "Õhtusöök Sinimägedes")
+
 _Imelise vaatega õhtusöök, Erki the Chef tööhoos._
 
 Kohe Sydney külje all asuvad Sinimäed (Blue Mountains), mis on imelised ja kus painkeb mitmeid rahvusparke. Seni on see kant meie lemmik Austraalias (mägedefännid nagu me oleme). Nime on nad saanud sinaka varjundi järgi, mis tuleneb vist eukaliptipuudest erituvast essentsist vms. Siinkandis pole eriti sääski ka, seega topeltluks. Maastik on kupliline ja lainetav, sekka mõned Grand Canyoni stiilis järsud kulutatud kaljud. Imeline. 
