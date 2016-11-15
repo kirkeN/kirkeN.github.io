@@ -17,7 +17,7 @@ Outbackiks nimetatakse Austraalias tagamaadvõi sisemaad, kus elab väike osa ra
 
 ![Meie Telk ja Ford Falcon](/images/erki_telgis.jpg "Meie Telk ja Ford Falcon")
 
-![Kohvikann IKEAst](/images/kohviann.jpeg "Kohvikann IKEAst")
+![Kohvikann IKEAst](/images/kohvikann.jpeg "Kohvikann IKEAst")
 
 ![Vaatame telgis Shameless-i](/images/telgis2.jpg "Vaatame telgis Shameless-i")
 
