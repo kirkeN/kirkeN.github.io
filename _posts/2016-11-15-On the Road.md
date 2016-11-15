@@ -56,7 +56,4 @@ Kohe Sydney külje all asuvad Sinimäed (Blue Mountains), mis on imelised ja kus
 ![Karula rahvuspargis ehk Blue Mountains](/images/vaade_autoaknast.jpg "Karula rahvuspargis ehk Blue Mountains")
 
 ![Wollemi National Park](/images/view_bluemnt.jpg "Wollemi National Park")
-_Sinimäed on suurepärane koht, kus rattaga sõita._ I'm in love. 
-
-
-
+_Sinimäed on suurepärane koht, kus rattaga sõita._ I'm in love.
