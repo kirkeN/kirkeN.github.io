@@ -19,11 +19,12 @@ Outbackiks nimetatakse Austraalias tagamaadvõi sisemaad, kus elab väike osa ra
 
 ![Kohvikann IKEAst](/images/kohvikann.jpeg "Kohvikann IKEAst")
 
+![Kirks limonaad](/images/kirks.jpeg "Kirks limonaad")
+
 ![Vaatame telgis Shameless-i](/images/telgis2.jpg "Vaatame telgis Shameless-i")
 
 Outbackis nägin ka mitmel päeval korralikke suuri usse üle kruusatee libisemas. Siin pidi mingisugune pruun uss olema eriti mürgine, need igatahes olid ka pruunid, võib-olla siis olidki tapaussid, aga kindel ma pole. 
 
-![Kirks limonaad](/images/kirks.jpeg "Kirks limonaad")
 
 ## PoolKogemata Sydneysse
 
