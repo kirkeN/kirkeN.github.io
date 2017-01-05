@@ -33,12 +33,16 @@ Alpide kultuuriprogrammi kuulus **Yarrangobilly** üle 400 milj a vanuste lubjak
 ![Yarrangobilly koopad](/images/lubjakivisambad.jpg "Yarrangobilly koopad")
 Yarrangobilly 400 milj a vanustes koobastes sambaid imetlemas 
 
-
+![Canberra](/images/canberra.jpg "Canberra")
+Canberra parlamendihoone ja avenüüd, mis selleni viivad
 
 Austraalia suuruselt teise linna **Melbourne**’i kastsime varbad sisse 24.12, ning võtsime ka uue aasta seal vastu. Öömaja saime minu sugulase vanatädi Maimu juures. Melbourne’i kultuuriprogrammi kuulus **National Gallery of Victoria** ehk Victoria osariigi Rahvusgalerii (kunstimuuseum-tasuta) ja **Melbourne Gallery** (Melbourne’i ajalugu, loomad-linnud-putukad jm loodus) külastused. Jõululaupäeval jalutasime läbi hipsterite põhitänava **Brunswick**, kus põikasime sisse Mao Zedongi piltidega rockilikku õllebaari, kuna õues oli päikse käes umbes 40 kraadi ja külm õlu tundus vägagi ahvatlev, käisime söömas ning jõuluõhutks võtsime Ühe full-bodied Victoria Shiraz, mis on Aussie kõige populaarsem viinamari. Müüjale tekitasime veidi peavalu oma full-bodied sooviga, kuna Victoria kliima ei olevat kõige soodsam selliste veinide jaoks, tavalisem on lihght või medium body, ilmselt jahedam kliima on selle põhjuseks. See vinoteek oli piisavalt äge, et dokumenti meilt ei küsitud, kuid enamasti tahetakse meilt passi ja paar korda oleme pidanud minema lausa koju passi järele, kuna müüja keeldub ilma selleta meile müümast. Ootame, et päike ja kõrge UV indeks meid varsti krimpsus vanuriteks muudab või Austraalia natuke leebemaks oma regulatsioonidega, kuidagi ülereguleeritud on paljud asjad siin, meile tundub. 
 
 ![ookean](/images/ooekan.jpg "ookean")
 Jõudsime isegi ookeani äärde, Üheksakümne miili pikkune ühetaoline rand! 
+
+![Melbourne Gallery](/images/sinivaal.jpg "Melbourne Gallery")
+Maailma suurima imetaja sinivaala skeleti ees Melbourne Gallerys
 
 Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega , aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km.     
 
