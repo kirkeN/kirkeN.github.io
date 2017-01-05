@@ -50,7 +50,7 @@ Canberra parlamendihoone ja avenüüd, mis selleni viivad
 
 Austraalia suuruselt teise linna **Melbourne**’i kastsime varbad sisse 24.12, ning võtsime ka uue aasta seal vastu. Öömaja saime minu sugulase vanatädi Maimu juures. Melbourne’i kultuuriprogrammi kuulus **National Gallery of Victoria** ehk Victoria osariigi Rahvusgalerii (kunstimuuseum-tasuta) ja **Melbourne Gallery** (Melbourne’i ajalugu, loomad-linnud-putukad jm loodus) külastused. Jõululaupäeval jalutasime läbi hipsterite põhitänava **Brunswick**, kus põikasime sisse Mao Zedongi piltidega rockilikku õllebaari, kuna õues oli päikse käes umbes 40 kraadi ja külm õlu tundus vägagi ahvatlev, käisime söömas ning jõuluõhutks võtsime Ühe full-bodied Victoria Shiraz, mis on Aussie kõige populaarsem viinamari. Müüjale tekitasime veidi peavalu oma full-bodied sooviga, kuna Victoria kliima ei olevat kõige soodsam selliste veinide jaoks, tavalisem on lihght või medium body, selle põhjuseks on Victoria jahedam kliima. See vinoteek oli piisavalt äge ja  dokumenti ei küsitud, kuid enamasti tahetakse meilt passi ning paar korda oleme pidanud minema lausa koju passi järele, kuna müüja keeldub ilma selleta meile müümast. Ootame, et päike ja kõrge UV indeks meid varsti krimpsus vanuriteks muudab või Austraalia natuke leebemaks oma regulatsioone teeb, kuidagi ülereguleeritud on paljud asjad siin, meile tundub. 
 
-![ookean](/images/ooekan.jpg "ookean")
+![ookean](/images/ookean.jpg "ookean")
 Jõudsime isegi ookeani äärde, Üheksakümne miili pikkune ühetaoline rand! 
 
 ![Melbourne Gallery](/images/sinivaal.jpg "Melbourne Gallery")
