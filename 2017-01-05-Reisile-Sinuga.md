@@ -22,6 +22,9 @@ Erki nautis Aussie Alpides vaadet rattasõidu ajal
 
 Väga vinged rattamarsruudid saab koostada Alpi rahvuspargis**Great Apline Road** ja Mt Kosciuszko rahvuspargis **Alpine Way** peal. Austraalia Alpide vahelt jookseb Victoria ja New South Wales osariikide piir, mistõttu need kaks rahvusparki asuvad eri osariikides. Alpine Way teele jääb ajalooline linnake **Beechworth**, kus komistasime khuuli õllepruulimiskoha otsa, mis on elanike seas väga populaarne einestamise ja joogikoht. Tegime seal kohaliku kraami degustatsiooni ning ostsime kaasa kõige vingema kuuspaki, mis mina eales ostnud olen. Muide, kui Austraalias on mõni linnake ajalooline, siis see tähendab peaaegu alati seda, et linnakese lugu on seotud miskitpidi kullapalavikuga. Vähemalt mulle tundub nii.  Eriti palju on taolisi linnakesi Victoria osariigis ja eks Melbourne’gi sai suuremas osas üles ehitatud kullapalaviku aegadel 1850ndatel, mil sellest sai üks maailma rikkamaid ja kiiremini arenevaid linnu. 
 
+![Austraalia Alpid](/images/magedes.jpg "Austraalia Alpid")
+Great Akpine Road vaated
+
 ![Bidge Road Brewers](/images/beerbrewer.jpg "Bidge Road Brewers")
 Bidge Road Brewers - degusteerime õlut Beechworhis
 
@@ -36,7 +39,7 @@ Yarrangobilly 400 milj a vanustes koobastes sambaid imetlemas
 ![Canberra](/images/canberra.jpg "Canberra")
 Canberra parlamendihoone ja avenüüd, mis selleni viivad
 
-Austraalia suuruselt teise linna **Melbourne**’i kastsime varbad sisse 24.12, ning võtsime ka uue aasta seal vastu. Öömaja saime minu sugulase vanatädi Maimu juures. Melbourne’i kultuuriprogrammi kuulus **National Gallery of Victoria** ehk Victoria osariigi Rahvusgalerii (kunstimuuseum-tasuta) ja **Melbourne Gallery** (Melbourne’i ajalugu, loomad-linnud-putukad jm loodus) külastused. Jõululaupäeval jalutasime läbi hipsterite põhitänava **Brunswick**, kus põikasime sisse Mao Zedongi piltidega rockilikku õllebaari, kuna õues oli päikse käes umbes 40 kraadi ja külm õlu tundus vägagi ahvatlev, käisime söömas ning jõuluõhutks võtsime Ühe full-bodied Victoria Shiraz, mis on Aussie kõige populaarsem viinamari. Müüjale tekitasime veidi peavalu oma full-bodied sooviga, kuna Victoria kliima ei olevat kõige soodsam selliste veinide jaoks, tavalisem on lihght või medium body, ilmselt jahedam kliima on selle põhjuseks. See vinoteek oli piisavalt äge, et dokumenti meilt ei küsitud, kuid enamasti tahetakse meilt passi ja paar korda oleme pidanud minema lausa koju passi järele, kuna müüja keeldub ilma selleta meile müümast. Ootame, et päike ja kõrge UV indeks meid varsti krimpsus vanuriteks muudab või Austraalia natuke leebemaks oma regulatsioonidega, kuidagi ülereguleeritud on paljud asjad siin, meile tundub. 
+Austraalia suuruselt teise linna **Melbourne**’i kastsime varbad sisse 24.12, ning võtsime ka uue aasta seal vastu. Öömaja saime minu sugulase vanatädi Maimu juures. Melbourne’i kultuuriprogrammi kuulus **National Gallery of Victoria** ehk Victoria osariigi Rahvusgalerii (kunstimuuseum-tasuta) ja **Melbourne Gallery** (Melbourne’i ajalugu, loomad-linnud-putukad jm loodus) külastused. Jõululaupäeval jalutasime läbi hipsterite põhitänava **Brunswick**, kus põikasime sisse Mao Zedongi piltidega rockilikku õllebaari, kuna õues oli päikse käes umbes 40 kraadi ja külm õlu tundus vägagi ahvatlev, käisime söömas ning jõuluõhutks võtsime Ühe full-bodied Victoria Shiraz, mis on Aussie kõige populaarsem viinamari. Müüjale tekitasime veidi peavalu oma full-bodied sooviga, kuna Victoria kliima ei olevat kõige soodsam selliste veinide jaoks, tavalisem on lihght või medium body, selle põhjuseks on Victoria jahedam kliima. See vinoteek oli piisavalt äge ja  dokumenti ei küsitud, kuid enamasti tahetakse meilt passi ning paar korda oleme pidanud minema lausa koju passi järele, kuna müüja keeldub ilma selleta meile müümast. Ootame, et päike ja kõrge UV indeks meid varsti krimpsus vanuriteks muudab või Austraalia natuke leebemaks oma regulatsioone teeb, kuidagi ülereguleeritud on paljud asjad siin, meile tundub. 
 
 ![ookean](/images/ooekan.jpg "ookean")
 Jõudsime isegi ookeani äärde, Üheksakümne miili pikkune ühetaoline rand! 
@@ -44,5 +47,7 @@ Jõudsime isegi ookeani äärde, Üheksakümne miili pikkune ühetaoline rand!
 ![Melbourne Gallery](/images/sinivaal.jpg "Melbourne Gallery")
 Maailma suurima imetaja sinivaala skeleti ees Melbourne Gallerys
 
-Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega , aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km.     
+Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega, aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km, vaatamisväärsusteks lõputud eramajade blokid, aga ka rohealad.      
 
+_Adventure is worthwhile!_ 
+[Seiklused on vaeva väärt!]
