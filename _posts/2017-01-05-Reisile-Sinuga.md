@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ![Snowy Mountains](/images/telgime.jpg "Snowy Mountains")
