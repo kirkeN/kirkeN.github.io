@@ -60,6 +60,9 @@ Maailma suurima imetaja sinivaala skeleti ees Melbourne Gallerys
 Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega, aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km, vaatamisväärsusteks lõputud eramajade blokid, aga ka rohealad.      
 
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1s1m9wbQrLTuep7_LqfQS3o2S-9I" width="640" height="480"></iframe>
+
+
 _Adventure is worthwhile!_ 
 [Seiklused on vaeva väärt!]
 
