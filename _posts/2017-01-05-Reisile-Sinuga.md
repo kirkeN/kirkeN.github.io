@@ -15,61 +15,63 @@ Viljakoristushooaeg **GrainCorpis** sai läbi ja tulime **Trangie**’ist tulema
 
 
 ![Lehmad söövad karjamaal](/images/lehmadkarjamaal.jpg "Lehmad söövad karjamaal")
-Lehmadel on palju ruumi (rohkem vist kui inimestel) ja suur osa maast on tarastatud
+<font color="grey" size="3">Lehmadel on palju ruumi (rohkem vist kui inimestel) ja suur osa maast on tarastatud</font>
 
 ![Mt Kosciuszko](/images/Austraalia_korgeim_magi.jpg "Mount Kosciuszko")
 
-Tagaplaanil Austraalia kõrgeim mägi Mt Kosciuszko (2228 m)
+
+<font color="grey" size="3">Tagaplaanil Austraalia kõrgeim mägi Mt Kosciuszko (2228 m)</font>
 
 Hoolimata kärbestest on mäed ilusad. Oleme nüüdseks telkinud looduskaunites _camp_’imiskohtades mägede vahel, jõeorgudes, ookeani ja järvede ääres sh kõige kõrgemas ametlikus telkimiskohas **Three Mile Dam**, kust läksime Erkiga rattatiirule mööda sinka-vonka üles-alla kulgevaid väikeseid mägedevahelisi teid. Need viisid muuhulgas omapärasesse linnakesse **Cabramurra**, mis ehitatud puhtalt (hüdro)energia tootmiseks ja mille majad olid väga ühetaolised/homogeensed. Linnake asub üsna kõrgel ja sealt avaneb võimas vaade mägede tippudele.
 
 ![Cabramurra](/images/Cabramurra.jpg "Cabramurra")
-Cabramurra - hüdroenergia tootmiseks ehitatud Austraalia kõrgeim (1488m) linnake 
+<font color="grey" size="3">Cabramurra - hüdroenergia tootmiseks ehitatud Austraalia kõrgeim (1488m) linnake </font>
 
 ![restareas](/images/restarea.jpg "restareas")
-Austraalias on väga tavalised _rest area_'d ehk teedeäärsed puhkeplatsid, mis sageli varustatud laudadega ja hea õnne korral ka suurepärase vaatega. 
+
+<font color="grey" size="3">Austraalias on väga tavalised _rest area_'d ehk teedeäärsed puhkeplatsid, mis sageli varustatud laudadega ja hea õnne korral ka suurepärase vaatega.</font>
 
 ![Snowy Mountains](/images/snowymnt1.jpg "Snowy Mountains")
 
-Erki nautis Aussie Alpides vaadet rattasõidu ajal
+<font color="grey" size="3">Erki nautis Aussie Alpides vaadet rattasõidu ajal</font>
 
 Väga vinged rattamarsruudid saab koostada Alpi rahvuspargis **Great Alpine Road** ja Mt Kosciuszko  rahvuspargis **Alpine Way** peal. Austraalia Alpide vahelt jookseb Victoria ja New South Wales osariikide piir, mistõttu need kaks rahvusparki asuvad eri osariikides. Alpine Way teele jääb ajalooline linnake **Beechworth**, kus komistasime khuuli õllepruulimiskoha otsa, mis on elanike seas väga populaarne einestamise ja joogikoht. Tegime seal kohaliku kraami degustatsiooni ning ostsime kaasa kõige vingema kuuspaki, mis mina eales ostnud olen. Muide, kui Austraalias on mõni linnake ajalooline, siis see tähendab peaaegu alati seda, et linnakese lugu on seotud miskitpidi kullapalavikuga. Vähemalt mulle tundub nii.  Eriti palju on taolisi linnakesi Victoria osariigis ja eks Melbourne’gi sai suuremas osas üles ehitatud kullapalaviku aegadel 1850ndatel, mil sellest sai üks maailma rikkamaid ja kiiremini arenevaid linnu. 
 
 ![Austraalia Alpid](/images/magedes.jpg "Austraalia Alpid")
-Great Alpine Road vaated
+<font color="grey" size="3">Great Alpine Road vaated</font>
 
 ![Hotham Heights](/images/hotham_heights.jpg "Hotham Heights")
-**Hotham Heights** - seal tahaks korra veel rattaga sõita, tunne nagu oleks Austraalia katusel.
+<font color="grey" size="3">**Hotham Heights** - seal tahaks korra veel rattaga sõita, tunne nagu oleks Austraalia katusel.</font>
 
 ![Bidge Road Brewers](/images/beerbrewer.jpg "Bidge Road Brewers")
 
-**Bidge Road Brewers** - degusteerime õlut Beechworhis
+<font color="grey" size="3">**Bidge Road Brewers** - degusteerime õlut Beechworhis</font>
 
 ![Melbourne'i klaastornid ja botaanikaaed](/images/melbourne.jpg "Melbourne'i klaastornid ja botaanikaaed")
-Melbourne'i südames on rahvarohke ja veidi pime, kuid ümberringi on madal hoonestus ning palju parke 
+<font color="grey" size="3">Melbourne'i südames on rahvarohke ja veidi pime, kuid ümberringi on madal hoonestus ning palju parke</font>
 
 Alpide kultuuriprogrammi kuulus **Yarrangobilly** üle 400 milj a vanuste lubjakivikoobaste külastamine, kus võtsime giidga ekskursiooni kunstiliste stalaktiitide (laest rippuvad sadu aastaid tilk tilga haaval settinud lubjakivist sambad) ja stalakmiitide (maapinnalt algavad lubjakivisambad) maailma, mis meenutasid vanakreeka kolumne. Päälinnas **Canberras** läksime tasuta giidituurile parlamendihoonesse, mis ehitatud 1988.a ja kus tekkis veidi Eesti Rahvusraamatukogu tunne: 80ndate veidi külm ja suurustav arhitektuur, aga no eks see poliitika olegi selline jahe ise ka. Igatahes oli sealsesse fuajeesse veetud korralikult ka Euroopa marmorit sammaste ehitamiseks (Portugalist, Belgiast ja kusagilt veelt). Saime istuda  eukalüptirohelises eesistujate saalis (ahvitud Briti parlamendi rohelise koja House of Commons järgi) ning senati punakas/roosas saalis, kus isegi _exit_ lambid olid punased (eelnevalt võeti vastu seadus, et need võivad olla seal saalis rohelise asemel punased, kuna arhitekt oleks muidu kreepsu saanud: roheline roosas saalis – nii kole ju). Kes veel tasuta asju armastab, siis soovitame käia Canberrasse sattudes ka Austraalia rahvusgaleriis, kus võimalik tutvuda omapärase ja veidi teistmood aborigeenide kunstiga, piskukese koloniaalajastu kunstnike teostega, lisapalana võib uudistada ka aasia kunsti ja internatsionaale kuulsaid nimesid, nagu Jackson Pollock, Andy Warhol, üks kole Claude Monet taies, David Hockney, Vassili Kandinsky ja teised masterid. Aborigeenide elu ja valu tundub olevat esindatud igas muuseumis. 
 
 ![Yarrangobilly koopad](/images/lubjakivisambad.jpg "Yarrangobilly koopad")
 
-Yarrangobilly 400 milj a vanustes koobastes sambaid imetlemas 
+<font color="grey" size="3">Yarrangobilly 400 milj a vanustes koobastes sambaid imetlemas</font>
 
 ![Canberra](/images/canberra.jpg "Canberra")
-Canberra parlamendihoone ja avenüüd, mis selleni viivad
+<font color="grey" size="3">Canberra parlamendihoone ja avenüüd, mis selleni viivad</font>
 
 Austraalia suuruselt teise linna **Melbourne**’i kastsime varbad sisse 24.12, ning võtsime ka uue aasta seal vastu. Öömaja saime minu sugulase vanatädi Maimu juures. Melbourne’i kultuuriprogrammi kuulus **National Gallery of Victoria** ehk Victoria osariigi Rahvusgalerii (kunstimuuseum-tasuta) ja **Melbourne Gallery** (Melbourne’i ajalugu, loomad-linnud-putukad jm loodus) külastused. Jõululaupäeval jalutasime läbi hipsterite põhitänava **Brunswick**, kus põikasime sisse Mao Zedongi piltidega rockilikku õllebaari, kuna õues oli päikese käes umbes 40 kraadi ja külm õlu tundus vägagi ahvatlev, käisime söömas ning jõuluõhutks võtsime Ühe _full-bodied_ Victoria Shiraz, mis on Aussie kõige populaarsem viinamari. Müüjale tekitasime veidi peavalu oma _full-bodied_ sooviga, kuna Victoria kliima ei olevat kõige soodsam selliste veinide jaoks, tavalisem on lihght või medium body, selle põhjuseks on Victoria jahedam kliima. See vinoteek oli piisavalt äge ja  dokumenti ei küsitud, kuid enamasti tahetakse meilt passi ning paar korda oleme pidanud minema lausa koju passi järele, kuna müüja keeldub ilma selleta meile müümast. Ootame, et päike ja kõrge UV indeks meid varsti krimpsus vanuriteks muudab või Austraalia natuke leebemaks oma regulatsioone teeb, kuidagi ülereguleeritud on paljud asjad siin, meile tundub. 
 
 ![ookean](/images/ookean.jpg "ookean")
 
-Jõudsime isegi ookeani äärde, Üheksakümne miili pikkune ühetaoline rand! 
+<font color="grey" size="3">Jõudsime isegi ookeani äärde, Üheksakümne miili pikkune ühetaoline rand!</font>
 
 ![Melbourne Gallery](/images/sinivaal.jpg "Melbourne Gallery")
-Maailma suurima imetaja sinivaala skeleti ees Melbourne Gallerys
+<font color="grey" size="3">Maailma suurima imetaja sinivaala skeleti ees Melbourne Gallerys</font>
 
 Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega, aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km, vaatamisväärsusteks lõputud eramajade blokid, aga ka rohealad.      
 
 
-Aastalõpu **Austraalia** jalgrattamarsruutide kokkuvõte:  
+<font color="grey" size="3">Aastalõpu **Austraalia** jalgrattamarsruutide kokkuvõte:</font> 
 ![heatmap 2016](/images/2016_strava_heatmap.png "heatmap 2016")
 Kirke heatmap
 
