@@ -3,8 +3,7 @@ published: true
 layout: post
 ---
 ![Snowy Mountains](/images/telgime.jpeg "Snowy Mountains")
-
-Meie kämpimisidüll
+<font color="grey" size="3">Meie kämpimisidüll</font>
 
 Viljakoristushooaeg **GrainCorpis** sai läbi ja tulime **Trangie**’ist tulema, sihiks **Austraalia Alpid** ehk **Snowy Mountains** (eesti k lumised mäed). Kiirustasime oma punase Fordiga Alpide suunas, kuna jumaldame mägesid ja lootsime kärbeste eest põgeneda. Aga kus sa sellega, need vastikud tüütused olid isegi **Mt Kosciuszko rahvuspargis** ja Austraalia kõrgeima mäe nõlvadel. Ma ei saa aru, mis värk siin nende kärbestega on. Liiga palju lehmakooke riigis? Jep, nagu Melbourne’i muuseumi kärbeste eksponaadist välja lugesin, siis _cattle_’i ehk lehmakarja indrodutseerimine Austraalias on justament üks peamisi põhjuseid. Kui lehmad Aussiemaale toodi, siis Austraalia kohalikud mardikad ei saanud suure lehmasita lagundamisega hakkama (nad oli kohandunud lagundama kuiva ja väiksemat kängurukakat jt junne). Mittelagunevad lehmakoogid andsid hea kasvulava kärbestele, kelle arv kasvas valguskiirusel ja andis välja juba kärbeste katku mõõtmed. Seetõttu indrodutseeriti 56 liiki uusi mardikaid ülemaailma Austraaliasse, kellest 20 liiki söövad siiani õnnelikult lehmasitta. Happy end! ( kärbseid on ikka hullupööra minu arust). Austraalias on muide 30 miljonit lehma, kes kakavad ligikaudu 12 miljonit lehmakooki igas tunnis. Great success. Mina tooks heaga neid mardikaid juurde. 
 
