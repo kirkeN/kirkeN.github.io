@@ -59,11 +59,16 @@ Maailma suurima imetaja sinivaala skeleti ees Melbourne Gallerys
 
 Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega, aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km, vaatamisväärsusteks lõputud eramajade blokid, aga ka rohealad.      
 
+
 _Adventure is worthwhile!_ 
 [Seiklused on vaeva väärt!]
+
+
 
 Aastalõpu **Austraalia** jalgrattamarsruutide kokkuvõte:  
 ![heatmap 2016](/images/2016_strava_heatmap.png "heatmap 2016")
 Kirke heatmap
+
 Kirke: 2611 km ja 28 605 tõusumeetrit
+
 Erki: 4165 km ja 50 074 tõusumeetrit
