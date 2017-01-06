@@ -15,7 +15,7 @@ Lehmadel on palju ruumi (rohkem vist kui inimestel) ja suur osa maast on tarasta
 
 Tagaplaanil Austraalia kõrgeim mägi Mt Kosciuszko (2228 m)
 
-Hoolimata kärbestest on mäed ilusad. Oleme nüüdseks telkinud looduskaunites _camp_’imiskohtades mägede vahel, jõeorgudes, ookeani ja järvede ääres sh kõige kõrgemas ametlikus telkimiskohas **Three Mile Dam**, kust läksime Erkiga rattatiirule mööda sinka-vonka üles-alla kulgevaid väikeseid mägedevahelisi teid. Need viisid muuhulgas omapärasesse linnakesse **Cabramurra**, mis ehitatud puhtalt (hüdro)energia tootmiseks ja mille majad olid väga ühetaolised/homogeensed. Linnake asub üsna kõrgel ja sealt avaneb võimas vaade mägede tippudele. Nagu oleks Austraalia katusel.
+Hoolimata kärbestest on mäed ilusad. Oleme nüüdseks telkinud looduskaunites _camp_’imiskohtades mägede vahel, jõeorgudes, ookeani ja järvede ääres sh kõige kõrgemas ametlikus telkimiskohas **Three Mile Dam**, kust läksime Erkiga rattatiirule mööda sinka-vonka üles-alla kulgevaid väikeseid mägedevahelisi teid. Need viisid muuhulgas omapärasesse linnakesse **Cabramurra**, mis ehitatud puhtalt (hüdro)energia tootmiseks ja mille majad olid väga ühetaolised/homogeensed. Linnake asub üsna kõrgel ja sealt avaneb võimas vaade mägede tippudele.
 
 ![Cabramurra](/images/Cabramurra.jpg "Cabramurra")
 Cabramurra - hüdroenergia tootmiseks ehitatud Austraalia kõrgeim (1488m) linnake 
@@ -31,6 +31,9 @@ Väga vinged rattamarsruudid saab koostada Alpi rahvuspargis **Great Alpine Road
 
 ![Austraalia Alpid](/images/magedes.jpg "Austraalia Alpid")
 Great Alpine Road vaated
+
+![Hotham Heights](/images/hotham_heights.jpg "Hotham Heights")
+**Hotham Heights** - seal tahaks korra veel rattaga sõita, tunne nagu oleks Austraalia katusel.
 
 ![Bidge Road Brewers](/images/beerbrewer.jpg "Bidge Road Brewers")
 
@@ -59,12 +62,9 @@ Maailma suurima imetaja sinivaala skeleti ees Melbourne Gallerys
 
 Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega, aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km, vaatamisväärsusteks lõputud eramajade blokid, aga ka rohealad.      
 
+Suumitav kaart meie ligikaudse läbitud marsruudiga, rohelised mummud tähistavad telkimiskohti ja bordeaux punased auslaid, mida külastasime või kus viibisime
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1s1m9wbQrLTuep7_LqfQS3o2S-9I" width="640" height="480"></iframe>
-
-
-_Adventure is worthwhile!_ 
-[Seiklused on vaeva väärt!]
 
 
 
@@ -75,3 +75,7 @@ Kirke heatmap
 Erki: 4165 km ja 50 074 tõusumeetrit Austraalias, 2016 kokku 16 392 km ja 121 742 m
 
 Kirke: 2611 km ja 28 605 tõusumeetrit Austraalias, 2016 kokku 7426 km ja 47 282 m
+
+
+_Adventure is worthwhile!_ 
+[Seiklused on vaeva väärt!]
