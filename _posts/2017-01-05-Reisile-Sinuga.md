@@ -61,3 +61,9 @@ Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on koha
 
 _Adventure is worthwhile!_ 
 [Seiklused on vaeva väärt!]
+
+Aastalõpu **Austraalia** jalgrattamarsruutide kokkuvõte:  
+![heatmap 2016](/images/2016_strava_heatmap.png "heatmap 2016")
+Kirke heatmap
+Kirke: 2611 km ja 28 605 tõusumeetrit
+Erki: 4165 km ja 50 074 tõusumeetrit
