@@ -81,3 +81,9 @@ Kirke: 2611 km ja 28 605 tõusumeetrit Austraalias, 2016 kokku 7426 km ja 47 282
 
 _Adventure is worthwhile!_ 
 [Seiklused on vaeva väärt!]
+
+<form action="//formspree.io/your@email.com" method="POST">
+    <p>Nimi: </p><input type="text" name="name"><br />
+    <p>Kommentaar: </p><textarea name="comment" rows="5" cols="40"><?php echo $comment;?></textarea><br /> 
+    <input type="submit" value="Valmis">
+</form>
