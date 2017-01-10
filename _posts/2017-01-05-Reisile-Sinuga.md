@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+comments: true
 ---
 ![Snowy Mountains](/images/telgime.jpeg "Snowy Mountains")
 <font color="grey" size="3">Meie kämpimisidüll</font>
@@ -81,5 +82,3 @@ Kirke: 2611 km ja 28 605 tõusumeetrit Austraalias, 2016 kokku 7426 km ja 47 282
 
 _Adventure is worthwhile!_ 
 [Seiklused on vaeva väärt!]
-
-
