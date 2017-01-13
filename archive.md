@@ -4,8 +4,7 @@ title: Archive
 published: true
 permalink: /archive/
 ---
-
-## Blog Posts
+## Postitused
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
