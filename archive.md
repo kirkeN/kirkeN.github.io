@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Archive
+published: true
+permalink: /archive/
 ---
 
 ## Blog Posts
