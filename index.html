@@ -18,16 +18,16 @@ title: Home
   </article>
   {% endfor %}
 </div>
-<div class="site">
-  {% if site.next_page %}
-    <a class="site-item older" href="{{ site.next_page_path | prepend: site.baseurl }}">Older</a>
+<div class="paginator">
+  {% if paginator.next_page %}
+    <a class="paginator-item older" href="{{ paginator.next_page_path | prepend: paginator.baseurl }}">Older</a>
   {% else %}
-    <span class="site-item older">Older</span>
+    <span class="paginator-item older">Older</span>
   {% endif %}
-  {% if site.previous_page %}
-    <a class="site-item newer" href="{{ site.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% if paginator.previous_page %}
+    <a class="site-item newer" href="{{ paginator.previous_page_path | prepend: paginator.baseurl }}">Newer</a>
   {% else %}
-    <span class="site-item newer">Newer</span>
+    <span class="paginator-item newer">Newer</span>
   {% endif %}
 </div>
 
