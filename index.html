@@ -18,6 +18,17 @@ title: Home
   </article>
   {% endfor %}
 </div>
-
+<div class="site">
+  {% if site.next_page %}
+    <a class="site-item older" href="{{ site.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="site-item older">Older</span>
+  {% endif %}
+  {% if site.previous_page %}
+    <a class="site-item newer" href="{{ site.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="site-item newer">Newer</span>
+  {% endif %}
+</div>
 
  
