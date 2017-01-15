@@ -30,6 +30,17 @@ body {
   width: 100%;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -288,8 +299,3 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-}
