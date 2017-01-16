@@ -17,13 +17,19 @@ comments: true
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
-     {% include disqus.html %}
+      
+  </article>
+  {% endfor %}
+</div>
+
+{% include disqus.html %}
   
    <div class="comments">
     {% include disqus.html disqus_identifier=page.disqus_identifier %}
   </div>
-  </article>
-  <div id="disqus_thread"></div>
+  
+
+<div id="disqus_thread"></div>
 <script>
 
 /**
@@ -45,8 +51,6 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                                 
 
-  {% endfor %}
-</div>
 
 <div class="pagination">
   {% if paginator.next_page %}
