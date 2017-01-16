@@ -16,6 +16,7 @@ published: true
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
+     {{ post.comments }}
   </article>
   {% endfor %}
 </div>
