@@ -17,19 +17,12 @@ comments: true
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
+    {{ post.disqus_identifier}}
       
   </article>
   {% endfor %}
 </div>
 
-{% include disqus.html %}
-  
-   <div class="comments">
-    {% include disqus.html disqus_identifier=page.disqus_identifier %}
-  </div>
-  
-
-<div id="disqus_thread"></div>
 
 <div class="pagination">
   {% if paginator.next_page %}
