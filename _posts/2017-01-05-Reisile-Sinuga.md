@@ -29,7 +29,7 @@ Hoolimata kärbestest on mäed ilusad. Oleme nüüdseks telkinud looduskaunites 
 
 ![restareas](/images/restarea.jpg "restareas")
 
-<font color="grey" size="3">Austraalias on väga tavalised _rest area_'d ehk teedeäärsed puhkeplatsid, mis sageli varustatud laudadega ja hea õnne korral ka suurepärase vaatega.</font>
+<font color="grey" size="3">Austraalias on väga tavalised <i>rest area</i>'d ehk teedeäärsed puhkeplatsid, mis sageli varustatud laudadega ja hea õnne korral ka suurepärase vaatega.</font>
 
 ![Snowy Mountains](/images/snowymnt1.jpg "Snowy Mountains")
 
@@ -41,7 +41,7 @@ Väga vinged rattamarsruudid saab koostada Alpi rahvuspargis **Great Alpine Road
 <font color="grey" size="3">Great Alpine Road vaated</font>
 
 ![Hotham Heights](/images/hotham_heights.jpg "Hotham Heights")
-<font color="grey" size="3">**Hotham Heights** - seal tahaks korra veel rattaga sõita, tunne nagu oleks Austraalia katusel.</font>
+<font color="grey" size="3"><b>Hotham Heights</b> - seal tahaks korra veel rattaga sõita, tunne nagu oleks Austraalia katusel.</font>
 
 ![Bidge Road Brewers](/images/beerbrewer.jpg "Bidge Road Brewers")
 
@@ -71,7 +71,7 @@ Austraalia suuruselt teise linna **Melbourne**’i kastsime varbad sisse 24.12, 
 Vana-aasta õhtul tegime rattatiiru mööda Melbourne’i rattateid, mis on kohati isegi eeskujulikult rajatud jõe peale ja õhku, kui ruumi mujal väheks jäänud. Nice. Teisalt jälle on linn üsna välja venitatud oma ermamajadega, aga see on kõikide Austraalia linnade probleem. Äärelinnast, kus peatusime, sõitsin rattaga 30-40 km kesklinna ja kogu rattatiir tuli 90 km, vaatamisväärsusteks lõputud eramajade blokid, aga ka rohealad.      
 
 
-<font color="grey" size="3">Aastalõpu **Austraalia** jalgrattamarsruutide kokkuvõte:</font> 
+<font color="grey" size="3">Aastalõpu <b>Austraalia</b> jalgrattamarsruutide kokkuvõte:</font> 
 ![heatmap 2016](/images/2016_strava_heatmap.png "heatmap 2016")
 Kirke heatmap
 
