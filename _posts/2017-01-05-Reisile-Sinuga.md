@@ -10,6 +10,7 @@ Viljakoristushooaeg **GrainCorpis** sai läbi ja tulime **Trangie**’ist tulema
 
 
 <font color="grey" size="3">Suumitav kaart meie ligikaudse läbitud marsruudiga, rohelised mummud tähistavad telkimiskohti ja bordeaux punased mummud auslaid, mida külastasime või kus viibisime.</font>
+<p class="piccom"> HELLO WORLD</p>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1s1m9wbQrLTuep7_LqfQS3o2S-9I" width="640" height="480"></iframe>
 
