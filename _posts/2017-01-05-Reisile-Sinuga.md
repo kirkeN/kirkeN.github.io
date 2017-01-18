@@ -45,7 +45,7 @@ Väga vinged rattamarsruudid saab koostada Alpi rahvuspargis **Great Alpine Road
 
 ![Bidge Road Brewers](/images/beerbrewer.jpg "Bidge Road Brewers")
 
-<font color="grey" size="3">**Bidge Road Brewers** - degusteerime õlut Beechworhis</font>
+<font color="grey" size="3"><b>Bidge Road Brewers</b> - degusteerime õlut Beechworhis</font>
 
 ![Melbourne'i klaastornid ja botaanikaaed](/images/melbourne.jpg "Melbourne'i klaastornid ja botaanikaaed")
 <font color="grey" size="3">Melbourne'i südames on rahvarohke ja veidi pime, kuid ümberringi on madal hoonestus ning palju parke</font>
