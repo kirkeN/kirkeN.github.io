@@ -2,11 +2,11 @@
 published: true
 layout: post
 ---
-##EELROOG - ilm
+## EELROOG - ilm
 
 Millest üks tüüpiline eestlane ikka juttu alustab kui mitte ilmast, eksole (isegi, kui postituse pealkiri seda just kui ei eeldaks)? Ilmad on siin oodatust jahedamad olnud: ca 15 kraadi, kuid on ka helgemaid päevi, näiteks eile, mil päikese käes oli üle 20-ne, ja nädalavahetuseks lubas ka 25. Aga üldiselt oleme Erkiga juba kaks pakki teed ära joonud, sest meie _light_ backpackid on pigem ratta- ja suveriideid täis ning ega siis Austraalia majad korralikult soojustatud ole. 
 
-##I PÕHIKÄIK - rattateed
+## I PÕHIKÄIK - rattateed
 
 ![rattabox soiduteel](/images/box.jpg "rattabox soiduteel")
 
@@ -32,13 +32,13 @@ _India ookean, St VIncenti laht_
 
 Teeääred ei ole  vist alati liiga puhtad (kuigi üldiselt ikka on, mõnes kohas on ehk oksi või puru tormikahjustuste tagajärjel maas – siin ka möllasid tuuled ja üleujutused mõni aeg tagasi, päris palju on puid pikali maas), sest Erki, vaesekene on juba kolm korda kummi tössiks saanud (kuigi põhjus võib peituda ka tema edevates võistluskummides). Karl Samoson, kes juhuslikult ka Adelaide’is redutab, teatas, et tema olevat ükskord mingis rahvuspargis pannud oma ratta puu külge lukku, kuid vandaalid olid puu tipu ära saaginud / murdnud, ratta võtnud ja jõkke visanud rattavaenulikkuse või oma madalalaubalisuse demonstreerimiseks. (Karli juttu ei julge muidugi alati 100% tõepähe võtta). Tellisime ka Erikga **Bike24**-st 50€ U-lukud, et saaks koos linna peal käia, loodame, et kõik läheb hästi.
 
-##II PÕHIKÄIK - tõusumeetrid
+## II PÕHIKÄIK - tõusumeetrid
 
 Kesklinn ja selle ümbrus on Adelaide’is lauge, kuid tõusumeetrite kogumine pole siin mingi probleem, sest lõunas ja idas tõusevad järsud künkad ja mäed. Näiteks sõitsime neljapäeval lõunas paiknevasse linnaossa Aberfoyle Park üht 10-nädalast kutsikat vaatama, keda nädalaks peagi hoidma läheme, ning edasi-tagasi sõit oli pea 900 tõusumeetrit ning kõigest 55 km. Eestis selle maa kohta nii palju tõusumeetreid ei kogu, rääkimata mu samal neljapäeval sellele maale veel treeningu mõttes otsa sõidetud 33 kilomeetrist, kus ma kogusin lausa 900 tõusumeetrit ehk üks suur ronimissõit. Aga see oli igat tõutumeetrit väärt, kuna külastasin **Cleveland Wildlife parki**, kus nägin esimest korda elus nunnusid koaalakarusid, kellega sai tõtt vahtitud ja kes mu liikumise peale stoiliselt pead keerasid, ja kängurusid. Vaated olid imelised: viinapuud, õites kirsipuud roheliste kuplite nõlvadel, sõitsin ka kruusakivi matkateedel (trails), mis looklesid üles-alla mööda nõlvu. Vaim ja meel rõõmustasid. Eks mäed, vaated ja loodus oli ka üks suur põhjus, miks siia tulime ja miks Adelaide’i kui Austraalia rattapealinna maandumiskohaks valisime.
 
 ![hill](/images/kyngas2.jpg "hill")
 
-##MAGUSTOIT – Cascada kohv
+## MAGUSTOIT – Cascada kohv
 
 Pup’i (kutsikat) vaatamast tulles põrkasime juhuslikult mingisse kohvikusse, mitte väga kaugel kodust (nii 4 km), kus saime vist elu parima cappucciono, see oli niiiiiiii _yummie_. Tellisime kookospiimaga ja vaht oli hästi ühtlane ja kreemjas, super. Seetõttu otsustasime täna, laupäeval veelkord sinna minna, et üks kohvibrunch teha (**Cascadas** saab ka väga häid ja põnevaid toorpalle, a la mingi kookos, maca, goji, spirulina jms superfood baasil). Juba eelmine kord panime tähele, et kohvik asub vist ratturite liikumismarsruudil ning täna oli ees juba mitu 50+ vanuses edevate riiete ja ratastega rattameeste gängi kohvitamas ja einestamas. Lahe. Kohv maitses endiselt jumalikult.    
 
