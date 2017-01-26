@@ -21,8 +21,11 @@ comments: true
     {{ post.content }}
     
   
-   <div class="comments">
    {% include disqus.html %}
+  
+   <div class="comments">
+    {% include disqus.html disqus_identifier=post.disqus_identifier %}
+  </div>
   </div>
       
   </article>
