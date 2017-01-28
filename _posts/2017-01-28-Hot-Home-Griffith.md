@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+comments: true
 ---
 ## Toidu ja maffia pealinn
 
