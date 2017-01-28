@@ -2,7 +2,7 @@
 layout: default
 published: true
 comments: true
-
+disqusIdentifier: {{ page.id }}
 ---
 
 <article class="post">
@@ -20,7 +20,7 @@ comments: true
    {% include disqus.html %}
   
    <div class="comments">
-    {% include disqus.html disqus_identifier=page.disqus_identifier %}
+    {% include disqus.html %}
   </div>
   
 </article>
