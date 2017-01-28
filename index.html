@@ -3,7 +3,6 @@ layout: default
 title: Home
 published: true
 comments: true
-disqusIdentifier: {{ post.id }}
 ---
 
 <div class="posts">
@@ -23,7 +22,7 @@ disqusIdentifier: {{ post.id }}
     
   
    <div class="comments">
-    {% include disqus.html disqusIdentifier=post.id %}
+    {% include disqus.html disqusIdentifier= post.id %}
     
   </div>
       
