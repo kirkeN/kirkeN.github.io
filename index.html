@@ -8,10 +8,9 @@ comments: true
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
-         <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-        
         {{ post.title }}
       </a>
     </h1>
