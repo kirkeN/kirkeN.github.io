@@ -6,6 +6,7 @@ comments: true
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  {{ page.id }}
 
   <div class="entry">
     {{ content }}
@@ -17,7 +18,7 @@ comments: true
   
   
    <div class="comments">
-    {% include disqus.html % disqusIdentifier= page.id %}
+    {% include disqus.html %}
   </div>
   
 </article>
@@ -30,7 +31,7 @@ comments: true
 
 var disqus_config = function () {
 //this.page.url = 'https://cyclingvagabonds.github.io/';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = '{{page.disqusIdentifier}}'// "{{ page.id }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = '{{ page.id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
