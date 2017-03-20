@@ -37,7 +37,7 @@ Olime reisi algusest peale mõlgutanud mõtteid, et Erki võiks teha _forklifti_
 
 Sydney on ikka päris suur, äärelinnast kesklinna sõitsin rongiga pea tund. Aga linn ise oli värskendav, eriti pärast outbacki, sääski ka polnud. Olid hoopis kõrged klaastornid, nunnu botaanikaaed, sillerdav meri, üsna väike aga kuulus ja erakordne Sydney ooperimaja (natuke tuli siiski linnahalli tunne peale) ning taaskord hästi palju asiaate. Maastikuarhitektuur mulle meeldis: maapind lainetas ja lookles mõnusalt, oli nii uut kui vana, klaasi kui rohelust, õhku ja merd. 
 
-![Sydney pargid](/images/lilled.jpg "Sydney pargid")
+![Sydney pargid](/images/lilled_sydney.jpg "Sydney pargid")
 
 ![Sydney Town Hall](/images/linnahall.jpg "Sydney Town Hall")
 
@@ -60,5 +60,3 @@ Kohe Sydney külje all asuvad Sinimäed (Blue Mountains), mis on imelised ja kus
 
 ![Wollemi National Park](/images/view_bluemnt.jpg "Wollemi National Park")
 _Sinimäed on suurepärane koht, kus rattaga sõita._ **We're in love**.
-
-
