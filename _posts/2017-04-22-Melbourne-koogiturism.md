@@ -50,4 +50,4 @@ Järgnevalt väike teatmik Aussie lihavõttetraditsioonidest..
 ![Erki spordib ka](/images/quay.jpg "Erki spordib ka")
 <font color="grey" size="3">Renoveeritud kail, kus puit kohtub betooniga</font>
 
-_[Linnaõhk teeb vabaks!](https://et.wikipedia.org/wiki/Linna%C3%B5hkteebvabaks)_
+_[Linnaõhk teeb vabaks!](https://et.wikipedia.org/wiki/Linna%C3%B5hk_teeb_vabaks)_
