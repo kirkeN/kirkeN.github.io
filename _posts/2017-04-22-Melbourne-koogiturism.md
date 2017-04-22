@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Sõitsime lihavõtete ajaks Melbourne’i vaimu puhkama _outbackist_, sest kuigi kõik ei nõustu minuga ja võib-olla ei nõustu ka turismiraamatud ja –brošüürid, siis meie jaoks on 20 000+ peaga Griffith ikkagi _outback_ – punase liivaga tühermaa, mis on kanalite võrguga põllumajanduslikuks oaasiks muudetud. Mina tahtsin teha sellest tripist koogiturismi, sest ma pole kolm kuud kooki söönud ja mul on väga _sweet tooth_! Muud magusat olen saanud küll, aga head kooki ihaldasin juba pikemat aega, sest  Griffithis näevad koogid kahtlased välja. Alustasime reede hommikul koogiturismi **Sheppartonist** lõunas, kus neljapäeva öösel telkisime, tankla kõrval kohvikus porgandikoogiga ja jätkasime seda Melbourne’is _Easter lunchiga_ kuni pühade lõpuni välja, kaks-kolm kooki-saiakest päevas. Korda läinud Easter! Lemmik oli šokolaadi-maapähkli brownie **Kallista** kohvikus (nii tore eestipärane nimi, eksole!) Melbsi külje all **Dandenong Hills**’is. Nüüd pean ehk järgmise suure linnani, Sydney või Brisbane’ini vastu. 
 
