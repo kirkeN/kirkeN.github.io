@@ -38,15 +38,15 @@ Pärast Sinimägesid külastasime **Sydneyt** ja sellest põhjapoole jäävat **
 ![Opera House Sydney](/images/operahouse.jpg "Opera House Sydney")
 <font color="grey" size="3">Peab ikka panema pildi ooperimajast ka.</font>
 
-Üks põnev tarbimiselamus Sydneys oli ka lämmastikujäätis **N2 Extreme Gelato** nimelises kohas Newtownis, kus kasutatakse vedelat lämmastiku jäätise tegemiseks otse klientide silme all. Meenutas keemialaborit, seega show + maitseelamus! Võtsin kookose-soolakaramelli sorbet ja see oli väga kreemjas ja ühtlane, nom-nom! Vedela lämmastiku eeliseks ongi jäätise tekstuuri ühtlasemaks-_smooth_’imaks saamine.
+Üks põnev tarbimiselamus Sydneys oli ka lämmastikujäätis **N2 Extreme Gelato** nimelises kohas Newtownis, kus kasutatakse vedelat lämmastiku jäätise tegemiseks otse klientide silme all. Meenutas keemialaborit, seega show + maitseelamus! Võtsin kookose-soolakaramelli sorbet ja see oli väga kreemjas ja ühtlane, nom-nom! Vedela lämmastiku eeliseks ongi jäätise tekstuuri ühtlasemaks-smooth’imaks saamine.
 
 ![Nitrogen ice-cream](/images/n2.jpg "Nitrogen ice-cream")
 <font color="grey" size="3">Lämmastikujäätise valmistamine, N2 Extreme Gelato.</font>
 
-Hipsterite linnaosast digiteleporteerusime järgmiseks Sydney ööks **Ashfieldi**, mis meile üllatuseks oli täielikult pilukate asundus. Kui õhtul põhitänavale söögikohta otsima läksime, siis vaatasid vastu hieroglüüfid ja tai, vietnami, hiina, jaapani jne köögid. Üks itaalia _cusine_ oli ka, aga seal polnud väga kedagi ja pandi varakult kinni. Ühe **New Shangai**-nimelise resto ees oli lausa pikk järjekord ja inimesed vesiste nägudega ihalesid süüa saada. Meie potsatasime maha tai kööki, kus pilukad põlled ees jooksid tulijalgselt ühe laua juurest teise juurde, olemata seejuures kuigi efektiivsed, küll aga naljakad. 
+Hipsterite linnaosast digiteleporteerusime järgmiseks Sydney ööks **Ashfieldi**, mis meile üllatuseks oli täielikult pilukate asundus. Kui õhtul põhitänavale söögikohta otsima läksime, siis vaatasid vastu hieroglüüfid ja tai, vietnami, hiina, jaapani jne köögid. Üks itaalia _cusine_ oli ka, aga seal polnud väga kedagi ja pandi varakult kinni. Ühe **New Shanghai**-nimelise resto ees oli lausa pikk järjekord ja inimesed vesiste nägudega ihalesid süüa saada. Meie potsatasime maha tai kööki, kus pilukad põlled ees jooksid tulijalgselt ühe laua juurest teise juurde, olemata seejuures kuigi efektiivsed, küll aga naljakad. 
 
-![New Shangai Ashfield](/images/new_shangai.jpg "New Shangai Ashfield")
-<font color="grey" size="3">Inimesed tahavad süüa saada just New Shangaist, Ashfield.</font>
+![New Shanghai Ashfield](/images/new_shangai.jpg "New Shanghai Ashfield")
+<font color="grey" size="3">Inimesed tahavad süüa saada just New Shanghaist, Ashfield.</font>
 
 Sydneys kaua ei olnud, pikk reis ikkagi ees ja rahakotile ka parem. Sõitsime edasi **Gosfordi**, et külastada **Australian Reptile Park**i ehk selgrootute parki, mis valiti NSW osariigi elanike poolt lemmikturismiatraktsiooniks. Park oli armas, looduse keskel ja rohelust täis ja sealsed elanikud veel armsamad. Nägime esmakordselt Galapagose ülisuuri kilpkonni, kes olid vanemad kui meie – minu lemmikud. Muidugi koaalad konkureerisid nendega, sest koaalad on lihtsalt niiiiii nunnud. Lugesime, et eukalüpti lehtede nätsutamine ikkagi ei tee koaalasid uimastatud unekarudeks, vähemalt pole põhjus mitte selles, et need on uimastid, vaid lihtsalt liiga väikse energeetilise toiteväärtusega, mistõttu koaala peab energiat säästma ja kõike hästi aeglaselt tegema. Erki väitis, et Tartu Ülikooli mingis ökoloogia aines olla õppejõud rääkinud, et eukalüpt on koaaladele ikkagi uimasti – mis siis tõde on? Või ei tea TÜ õppejõud neid lõunapoolkera asju nii hästi..
 
